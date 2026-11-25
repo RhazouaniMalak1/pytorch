@@ -1,0 +1,14 @@
+[project]
+name = "pytorch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "torch>=2.15.0",
+    "torchvision>=0.29.2",
+    "torchvista>=0.2.13",
+    "torchviz>=0.0.3",
+]
